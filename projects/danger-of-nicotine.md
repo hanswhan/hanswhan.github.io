@@ -12,5 +12,5 @@ labels:
 summary: "I worked on a research project about nicotine and wrote an essay about it."
 ---
 
-<img class="img-fluid" src="../img/DangerOfNicotine.png">
+<img class="img-fluid" src="../img/DangerOfNicotine.jpg">
 
