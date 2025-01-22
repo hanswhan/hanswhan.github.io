@@ -12,7 +12,7 @@ labels:
 summary: "I created a bank database application program for ICS 212, written in both C and C++."
 ---
 
-img/BankDatabaseApplication.png
+<img class="img-fluid" src="../img/BankDatabaseApplication.png">
 
 This is a bank database application program designed to function as a database system for a bank. The program is available in both C and C++ versions, allowing users to choose the version that best suits their needs. I created the C version first and then converted the code to C++, as the two languages are very similar. I added more detail and functionality with functions in the C++ version compared to the C version. I can confidently state that this program has minimal errors, as I tested it with most of the rare inputs that users might enter. 
 
