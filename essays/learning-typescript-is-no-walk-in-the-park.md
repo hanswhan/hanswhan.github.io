@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/typescript.jpg">
+<img class="img-fluid" src="../img/typescript.webp">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
