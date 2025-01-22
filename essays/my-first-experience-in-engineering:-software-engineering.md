@@ -10,7 +10,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/softwareengineer.avif">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
