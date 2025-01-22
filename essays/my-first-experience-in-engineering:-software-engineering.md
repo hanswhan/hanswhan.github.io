@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Learning TypeScript Is No Walk in the Park"
+title: "My First Experience in Engineering: Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-21
 published: true
 labels:
-  - TypeScript
-  - WOD
+  - Software
+
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
