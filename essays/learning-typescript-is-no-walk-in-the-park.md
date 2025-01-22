@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning TypeScript Is No Walk in the Park"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-21
+date: 2025-01-22
 published: true
 labels:
   - TypeScript
