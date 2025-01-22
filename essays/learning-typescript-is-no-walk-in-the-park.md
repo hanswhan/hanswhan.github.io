@@ -13,15 +13,10 @@ labels:
 
 <img class="img-fluid" src="../img/typescript.webp">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it - 
+Bill Gates*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+However, TypeScript is not a friendly language for lazy people like me. It requires explicit type annotations along with a complex setup and configuration. Compared to how simple Python is, TypeScript feels too complicated and annoying. Additionally, every time I learn a new language, I always get confused with others, as some aspects are similar while others are not. It is important to learn new things and understand them well, especially since things in computer science change so quickly nowadays.
 
 ## In the context of programming
 
@@ -39,18 +34,4 @@ The Honolulu Rail project at home has become this sort of poster child of failur
 
 The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+- Used ChatGPT for grammar check only.
