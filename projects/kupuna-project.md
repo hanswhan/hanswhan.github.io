@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kimchi.jpg
+image: img/Kupuna-Project/kimchi.jpg
 title: "Kupuna Project"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "I created a website about Kimchi, a traditional Korean dish."
 ---
 
-<img class="img-fluid" src="../img/KupunaProject.png">
+<img class="img-fluid" src="../img/Kupuna-Project/KupunaProject.png">
 
 This was my final project for the FSHN 185 class. It is called the Kupuna Project because "Kupuna" means "elder" in Hawaiian. For this project, we had to choose one traditional food from our home country and research it. I chose Kimchi, the most well-known Korean food. However, a fun fact about me is that I don’t enjoy eating Kimchi as much as most other Koreans.
 
