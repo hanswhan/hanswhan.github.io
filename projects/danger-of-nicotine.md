@@ -12,7 +12,7 @@ labels:
 summary: "I worked on a research project about nicotine and wrote an essay about it."
 ---
 
-<img class="img-fluid" src="../img/Danger-of-Nicotine/DangerOfNicotine.jpg">
+<img class="img-fluid" src="../img/Danger-of-Nicotine/DangerofNicotine.jpg">
 
 This was a final project for ESL 100. I had to choose a topic that is problematic in society and conduct extensive research about it. I decided to choose nicotine because I feel that many teenagers nowadays tend to get addicted to nicotine easily. Once people become addicted to nicotine, it is extremely challenging to quit, which can lead to serious health problems such as cancer. The main sources of nicotine are smoking and vaping, both of which cause significant health issues.
 
