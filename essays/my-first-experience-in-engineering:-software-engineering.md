@@ -10,7 +10,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/softwareengineer.avif">
+<img class="img-fluid" src="../img/My-First-Experience-in-Engineering:-Software-Engineering/softwareengineer.avif">
 
 ## Embracing New Challenges
 
