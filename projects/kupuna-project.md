@@ -20,4 +20,4 @@ I worked on this project by myself, and it took me about 24 hours to complete. T
 
 During this project, I learned how to create a website using Google Sites. Initially, I thought publishing a website would be very complicated, but I discovered that it can be done quite easily with Google Sites. Moreover, I gained a deeper understanding of my country’s traditional food, Kimchi. Even though I was born and raised in Korea for most of my life, I didn’t know many details about this food before. In conclusion, I learned that Kimchi is not only a very healthy food but also one that is becoming increasingly popular in Hawaii!
 
-Here is the link to the website: https://sites.google.com/hawaii.edu/sungwonhan?usp=sharing
+Here is the link to the website: [Website](https://sites.google.com/hawaii.edu/sungwonhan?usp=sharing)
