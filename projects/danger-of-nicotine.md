@@ -20,4 +20,4 @@ I worked on this project alone, and it took me about 24 hours to complete. It wa
 
 Through this process, I learned how to research a topic and write an essay about it. This was my first time writing a 10-page essay, which was a challenging task. The fact that English is not my first language made it even more difficult. I realized that reading articles and summarizing them with only the necessary information is a valuable skill. In the end, I was able to complete the essay and gain a deeper understanding of nicotine, which reinforced my resolve never to try nicotine, not even once.
 
-Here is the link to the research paper: https://docs.google.com/document/d/1ga07zb6HviqFgG3D5RRxdiFUByXBNiNf3M9vYgareeQ/edit?usp=sharing
+Here is the link to the research paper: [Paper](https://docs.google.com/document/d/1ga07zb6HviqFgG3D5RRxdiFUByXBNiNf3M9vYgareeQ/edit?usp=sharing)
