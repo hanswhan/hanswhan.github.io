@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/typescript.webp">
+<img class="img-fluid" src="../img/Learning-TypeScript-Is-No-Walk-in-the-Park/typescript.webp">
 
 ## TypeScript: A Challenge for the Lazy
 
