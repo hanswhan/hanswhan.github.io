@@ -34,6 +34,7 @@ In conclusion, I realized that the depth and clarity of the response you get dep
 ## Links
 
 Here is a link to the good example: [good](https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call)
+
 Here is a link to the bad example: [bad](https://stackoverflow.com/questions/79388715/meeting-rooms-iii-leetcode)
 
 - Used ChatGPT for grammar check only.
