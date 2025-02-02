@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Ask Smarter and Learn Faster: The Science of Smart Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-28
+date: 2025-01-27
 published: true
 labels:
   - Smart Question
