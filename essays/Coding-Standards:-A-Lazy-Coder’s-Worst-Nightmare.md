@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/Ask-Smarter-and-Learn-Faster:-The-Science-of-Smart-Questions/stackoverflow.png">
+<img class="img-fluid" src="../img/Coding-Standards:-A-Lazy-Coder’s-Worst-Nightmare/eslint.png">
 
 ## The Role of Questions in Learning
 
