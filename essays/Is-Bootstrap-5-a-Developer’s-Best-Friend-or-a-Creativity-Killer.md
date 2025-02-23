@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/Coding-Standards:-A-Lazy-Coder’s-Worst-Nightmare/eslint.png">
+<img class="img-fluid" src="../img/Is-Bootstrap-5-a-Developer’s-Best-Friend-or-a-Creativity-Killer/bootstrap.png">
 
 ## Bootstrap 5: The Ultimate Time-Saver for Web Developers
 
