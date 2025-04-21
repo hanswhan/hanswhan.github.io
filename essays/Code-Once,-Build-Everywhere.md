@@ -10,7 +10,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/Ask-Smarter-and-Learn-Faster:-The-Science-of-Smart-Questions/stackoverflow.png">
+<img class="img-fluid" src="../img/Code-Once,-Build-Everywhere/roof.webp">
 
 ## Smart Roofs, Smarter Design
 
