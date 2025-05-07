@@ -10,7 +10,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/Code-Once,-Build-Everywhere/roof.webp">
+<img class="img-fluid" src="../img/Reflect-on-Your-Use-of-AI-in-ICS-314/AI.jpg">
 
 ## The Transformative Power of AI in Software Engineering Education
 
