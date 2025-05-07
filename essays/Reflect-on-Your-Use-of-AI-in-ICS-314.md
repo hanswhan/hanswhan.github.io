@@ -80,6 +80,10 @@ I would say that I used ChatGPT the most this semester for ICS 311. I don’t li
 
 ## Impact on Learning and Understanding
 
+Using AI for ICS 314 definitely helped me in many ways, but there are some important considerations. For comprehension, it was more useful than anything else, and I’m willing to continue using it to support my understanding. As mentioned multiple times above, it is the best tool available if you are trying to learn something new. However, I’m not sure if the use of AI actually helped me develop skills or improve my problem-solving abilities. Since AI could write code so quickly and easily, I felt like I wasn’t learning deeply. So, if the actual WOD was quite different from the practice WOD, I struggled to solve it without using ChatGPT. It takes away the opportunity for independent thinking. So it is true that AI enhanced my understanding of software engineering concepts, but I think it challenged me with practical tasks because I was relying on it a bit too much.
+
+## Practical Applications
+
 
 
 - Used ChatGPT for grammar check only.
