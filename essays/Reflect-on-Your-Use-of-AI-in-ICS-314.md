@@ -22,4 +22,7 @@ As a computer science student currently taking the software engineering course I
 
 ## 
 
-- Used ChatGPT for grammar check and brainstorming only.
+1. Experience WODs
+The first experience WOD that comes into my mind is definitely digits WOD.
+
+- Used ChatGPT for grammar check only.
