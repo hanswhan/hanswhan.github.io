@@ -40,7 +40,7 @@ We wrote a lot of essays in the early part of the semester but stopped around th
 
 5 Final project
 
-I would say that using AI was almost essential for most students in ICS 314 to complete the final project. I assume that no one would have been able to finish the project without AI, because there were so many small issues and details that we weren’t taught in class. For example, I spent more than six hours just trying to solve database problems, and ChatGPT helped me a lot in figuring them out. For the coding part of the final project, I decided to use ChatGPT even though it was somewhat similar to the digits WOD because there was no time limit, and it turned out to be more helpful than I expected as long as you provide enough detail.
+I think using AI was almost essential for most students in ICS 314 to complete the final project. I assume that no one would have been able to finish the project without AI, because there were so many small issues and details that we weren’t taught in class. For example, I spent more than six hours just trying to solve database problems, and ChatGPT helped me a lot in figuring them out. For the coding part of the final project, I decided to use ChatGPT even though it was somewhat similar to the digits WOD because there was no time limit, and it turned out to be more helpful than I expected as long as you provide enough detail.
 
 6 Learning a concept / tutorial
 
@@ -68,7 +68,7 @@ ChatGPT is usually excellent at writing code, but the results really depend on t
 
 12 Documenting code
 
-I think this is similar to explaining code, since documenting code is basically the same as writing comments, just across multiple lines. I personally didn’t need to document code, so I’m not entirely sure how AI can be used for that, but I believe it would do an excellent job as usual. Comments are generally meant to help others read and understand the code, and since ChatGPT is good at explaining, it should handle that well too. As long as ChatGPT understands how a line of code works, it should be useful for generating comments.
+This is related to explaining code, since documenting code is basically the same as writing comments, just across multiple lines. I personally didn’t need to document code, so I’m not entirely sure how AI can be used for that, but I believe it would do an excellent job as usual. Comments are generally meant to help others read and understand the code, and since ChatGPT is good at explaining, it should handle that well too. As long as ChatGPT understands how a line of code works, it should be useful for generating comments.
 
 13 Quality assurance
 
@@ -76,13 +76,25 @@ ChatGPT is pretty good at fixing errors in lines of code. However, when the code
 
 14 Other uses in ICS 314 not listed
 
-I would say that I used ChatGPT the most this semester for ICS 311. I don’t like reading the textbook, and the lecture notes-which are just summaries of the textbook-don’t contain enough detailed explanations, so it’s hard to understand the material by reading them alone. Instead, I asked ChatGPT to explain the lecture notes in more detail, and it did an excellent job, as expected. I saved a lot of time by not reading the textbook and using ChatGPT to learn the material before class.
+I used ChatGPT the most this semester for ICS 311, which is an algorithm class. I don’t like reading the textbook, and the lecture notes-which are just summaries of the textbook-don’t contain enough detailed explanations, so it’s hard to understand the material by reading them alone. Instead, I asked ChatGPT to explain the lecture notes in more detail, and it did an excellent job, as expected. I saved a lot of time by not reading the textbook and using ChatGPT to learn the material before class.
 
 ## Impact on Learning and Understanding
 
 Using AI for ICS 314 definitely helped me in many ways, but there are some important considerations. For comprehension, it was more useful than anything else, and I’m willing to continue using it to support my understanding. As mentioned multiple times above, it is the best tool available if you are trying to learn something new. However, I’m not sure if the use of AI actually helped me develop skills or improve my problem-solving abilities. Since AI could write code so quickly and easily, I felt like I wasn’t learning deeply. So, if the actual WOD was quite different from the practice WOD, I struggled to solve it without using ChatGPT. It takes away the opportunity for independent thinking. So it is true that AI enhanced my understanding of software engineering concepts, but I think it challenged me with practical tasks because I was relying on it a bit too much.
 
 ## Practical Applications
+
+One practical use of AI outside of ICS 314 can be seen in the video game industry. A strong example is InZOI, a Korean game developed by InZOI Studio and published by Krafton, which makes heavy use of AI. In traditional games, non-player characters (NPCs) usually follow fixed, hardcoded rules, which can make their actions predictable. InZOI, however, uses AI to simulate NPC behavior based on the situation, allowing characters to respond in more realistic and varied ways. This creates a more dynamic and engaging gaming experience. This use of AI helps solve real-world software engineering challenges, like modeling complex behavior, making systems scalable, and adapting to new scenarios. Instead of coding every possible action by hand, developers can train AI models to respond intelligently. This saves development time and creates richer interactions for players. It also shows how AI can support collaboration within a game development team, and how similar techniques could be applied in other areas, such as simulations or improving user experience design.
+
+## Challenges and Opportunities
+
+The biggest challenge I encountered while using AI was during the final project. Even though ChatGPT was very intelligent, it wasn’t very effective at writing code for complex tasks like building a component-based website. This is because you need to provide a lot of detail about how interactions work on each page. For example, I had to create an Admin Resource page for our project website, and I needed to modify multiple code files, such as the Prisma schema and database actions. Since building a functioning site requires coordination across many components, it wasn’t as simple as just working on a single page.tsx file. Using AI while having foundational knowledge can be powerful. However, without a strong understanding of how things work—especially if you didn’t have enough time to develop that knowledge—it can actually be more difficult to use AI effectively. To improve this, AI could be better integrated into software engineering education by helping students break down complex projects and understand multi-file systems. This would allow students to learn how to guide AI tools more effectively while reinforcing key development concepts.
+
+## Comparative Analysis
+
+Traditional teaching methods are very different from AI-enhanced approaches in education. With traditional methods, students have to attend classes, read textbooks if they don't understand something, and complete coding assignments on their own even if it takes a long time to figure things out. In contrast, AI-enhanced learning allows students to watch recorded lectures online, ask questions to an AI instead of waiting to ask the professor, and get help with coding problems quickly, making it less likely that they'll get stuck. In terms of engagement, AI can be helpful because it makes learning easier and saves a lot of time. However, when it comes to knowledge retention and practical skill development, AI might hold some students back. Students should try to use AI only when they are truly stuck or already have a solid understanding of the topic. Otherwise, they risk becoming too dependent and not learning how to solve problems on their own.
+
+## Future Considerations
 
 
 
