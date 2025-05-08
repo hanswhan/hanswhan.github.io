@@ -36,7 +36,7 @@ We also did several actual WODs in class, and I attended all of them except for 
 
 4 Essays
 
-We wrote several essays early in the semester, then stopped for a while, and recently resumed. I used ChatGPT only to check grammar for all essays, except one where I also used it to brainstorm because the topic was difficult. That essay was about design patterns, and since I had no prior experience with the topic, ChatGPT helped me better understand it. For grammar checking, ChatGPT performed very well, and I’m using it for this essay too, but not to write the content, as I want it to reflect my own ideas and voice.
+I used ChatGPT only to check grammar for all essays, except one where I also used it to brainstorm because the topic was difficult. That essay was about design patterns, and since I had no prior experience with the topic, ChatGPT helped me better understand it. For grammar checking, ChatGPT performed very well, and I’m using it for this essay too, but not to write the content, as I want it to reflect my own ideas and voice.
 
 5 Final project
 
