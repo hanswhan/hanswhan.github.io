@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Video Game Development" },
     { "name": "Artificial Intelligence" },
-    { "name": "App Development" }
+    { "name": "Cybersecurity" },
+    { "name": "Video Game Development" }
   ],
   "skills": [
     {
