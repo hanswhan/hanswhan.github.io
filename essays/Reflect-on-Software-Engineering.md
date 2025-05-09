@@ -41,4 +41,4 @@ Although I didn’t create a design pattern myself, I learned a lot about their 
 
 Overall, this course taught me that software engineering is much more than writing code that works. It’s about writing code that works well with others. Whether it's adhering to coding standards to ensure clarity, using structured project management techniques like Issue Driven Project Management to improve collaboration, or leveraging design patterns to save time and increase consistency, these practices are universally valuable. They not only make technical projects more efficient but also make teamwork more effective. What I’ve learned in this class will stay with me no matter what kind of project I take on in the future—inside or outside of software development.
 
-- Used ChatGPT for grammar check and brainstorming only.
+- Used ChatGPT for grammar check only.
