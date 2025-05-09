@@ -14,5 +14,5 @@ labels:
 
 ## Introduction
 
-*Artificial intelligence will have a more profound impact on humanity than fire, electricity and the internet. - Sundar Pichai*
+*Software engineering is the part of computer science which is too difficult for the computer scientist. - Friedrich L. Bauer*
 
