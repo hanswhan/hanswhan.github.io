@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: A Lazy Coder’s Worst Nightmare"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-09
-published: true
+published: false
 labels:
   - Coding Standards
   - ESLint
