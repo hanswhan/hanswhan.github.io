@@ -4,7 +4,7 @@ type: essay
 title: "Is Bootstrap 5 a Developer’s Best Friend or a Creativity Killer?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-23
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
