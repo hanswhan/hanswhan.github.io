@@ -35,7 +35,8 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [ "ICS 111 - Intro to Computer Science I" ]
+      "courses": [ "ICS 111 - Intro to Computer Science I", "ICS 211 - Intro to Computer Science II"
+      ]
     }
   ],
   "awards": [
