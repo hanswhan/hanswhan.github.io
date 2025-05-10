@@ -18,6 +18,8 @@ summary: "My group and I built a website in TypeScript that allows users to borr
 
 The Campus Resource Scheduler is a web application developed for the University of Hawaiʻi at Mānoa community to streamline the process of borrowing campus resources such as equipment and study rooms. Designed as part of a final project for ICS 314, the application offers students and administrators an intuitive platform to schedule, manage, and return resources through a user-friendly interface. Key features include real-time availability filtering, personalized dashboards, and an AI-powered recommendation system called LoanLink, which suggests resources based on user needs and profiles. By centralizing access and management, CRS aims to improve campus resource utilization and enhance the overall student experience.
 
+<img class="img-fluid" src="../img/finalfinalfinal.png">
+
 ## My Contributions
 
 I was primarily responsible for deploying our website using Vercel and managing the Supabase database. My role involved ensuring that the application was properly deployed and that the database was securely and reliably connected. I also developed the Admin Resource Page, which allows admin users to manage all listed resources. On this page, administrators have the ability to add, edit, and delete resources — core functionalities required for managing the system.
